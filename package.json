@@ -1,13 +1,14 @@
 {
     "name": "@nyaacinth/webview-nativefy.css",
     "type": "module",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Nyaacinth",
     "description": "Nyaacinth's CSS Reset (Part Nativefy WebView)",
     "license": "MIT",
     "homepage": "https://github.com/Nyaacinth/webview-nativefy.css",
     "repository": "https://github.com/Nyaacinth/webview-nativefy.css",
     "exports": {
+        ".": "./webview-nativefy.css",
         "./*": "./*"
     },
     "files": [
